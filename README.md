@@ -1,5 +1,5 @@
 <h2 align="center">
-&#9829; Installation Process &#9829; <hr> <br><h2>
+&#9829; Installation Process &#9829; <hr><h2>
 # Step 1:<br>
 <img src ="https://github.com/coder-ashish/website-to-App/blob/main/release/1.jpeg" > <br><br>
 # Step 2: <br>
